@@ -70,6 +70,10 @@ a:visited {
   margin-top: 100px;
   margin-bottom: 100px;
 }
+.job-title {
+  font-size: 16px !important;
+  color: gray;
+}
 @media (max-width: 768px) {
   h1 {
     font-size: 18px;
